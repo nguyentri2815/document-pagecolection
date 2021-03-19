@@ -10,6 +10,7 @@
     - dùng fetch fiter đúng sản phẩm theo danh mục mà ko cần load lại trang
     - khi xem chi tiết sản phẩm, dùng DOM lấy html của product đẩy vào khung đã xem đồng thơi lưu trong localstorage
     - khi load lại trang get data được lưu trong localstorage render ra khung đã xem điều kiện (i=0,i<=array.length && i<9,i++)
+    - tin tức: for blogs.tin-sale.articles limit:2 hiển thị ra giao diện
     - responsive trên các breakpoints: 375px, 768px, 1440px
 - **Hướng dẫn cách thiết lập / nhập liệu dữ liệu**
     - trang admin -> sản phẩm -> danh sách sản phẩm -> thêm sản phẩm
