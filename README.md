@@ -7,6 +7,7 @@
     - code giao diện hiển thị theo mẫu
     - tạo danh mục SET 690K,set-750k, SET 800k, SET 1000k chọn Khung giao diện collection.salepage
     - mỗi danh mục trong mỗi SET tương ứng với danh mục của nó được tạo trong danh mục sản phẩm
+    - mặc định vào mỗi SEt load dự liệu ở tab đầu tiên được active 
     - dùng fetch fiter đúng sản phẩm theo danh mục mà ko cần load lại trang
     - khi xem chi tiết sản phẩm, dùng DOM lấy html của product đẩy vào khung đã xem đồng thơi lưu trong localstorage
     - khi load lại trang get data được lưu trong localstorage render ra khung đã xem điều kiện (i=0,i<=array.length && i<9,i++)
